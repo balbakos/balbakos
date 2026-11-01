@@ -40,3 +40,4 @@ Van egy folyamatod, amit ma még kézzel oldotok meg? Írj nyugodtan:
 
 - 🌐 [nextsheet.hu](https://www.nextsheet.hu/?utm_source=github_profile&utm_medium=referral&utm_campaign=powered_by_nextsheet&utm_content=github_readme_contact)
 - ✉️ [balazs@nextsheet.hu](mailto:balazs@nextsheet.hu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bal%C3%A1zs-bakos-36864295/)
